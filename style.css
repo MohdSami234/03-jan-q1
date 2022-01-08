@@ -1,36 +1,32 @@
 body{
-   padding: 0%;
-   margin: 0%;
+    background-color: aquamarine;
 }
 
 
  
 #middle{
-   display: flex;
-   justify-content: space-evenly;
-   background-color: rgb(49, 54, 54);
+    
+   margin-left: 500px;
+   margin-right: 500px;
     
    
 }
  
 #buttom{
-   display: flex;
+    
    margin-top: 60px;
-   justify-content: space-evenly;
+    margin-left: 450px;
 }
  
 button{
+   
    background-color: cadetblue;
 }
  
-h1,p{
-   color: azure;
-}
-#footer{
-   display: flex;
-   justify-content: center;
+ 
+ 
     
-}
+
 h2{
    margin-left: 30px;
 }
